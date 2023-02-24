@@ -20,5 +20,6 @@ public class Student extends College {
 		data.collegeRank();
 		data.deptName();
 		data.HostelName();
+		data.dept();
 	}
 }
